@@ -9,10 +9,10 @@ type: Bug
 ---
 
 ### Details and Assumptions
-    * [document what you know]      
+    - [document what you know]      
 
 ### Steps To Reproduce
-- 
+    - 
 
 ### Acceptance Criteria     
     gherkin 
